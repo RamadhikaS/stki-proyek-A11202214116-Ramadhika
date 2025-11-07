@@ -1,6 +1,8 @@
-# File ini HANYA berisi library yang dibutuhkan oleh app
+# File ini berisi SEMUA library yang dibutuhkan oleh app
 
 streamlit
 scikit-learn
 pandas
 sastrawi
+nltk
+joblib
